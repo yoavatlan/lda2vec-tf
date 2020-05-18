@@ -1,3 +1,5 @@
+Experimenting from :
+
 # lda2vec-tf
 TensorFlow implementation of Christopher Moody's [*lda2vec*](https://github.com/cemoody/lda2vec), a hybrid of
 [Latent Dirichlet Allocation](https://www.cs.princeton.edu/~blei/papers/BleiNgJordan2003.pdf) &
